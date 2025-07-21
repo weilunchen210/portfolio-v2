@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-v2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/weilunchen210/portfolio-v2#readme",
+  "bugs": {
+    "url": "https://github.com/weilunchen210/portfolio-v2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weilunchen210/portfolio-v2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
